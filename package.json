@@ -1,0 +1,13 @@
+{
+  "name": "gosticker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@emotion/react": "^11.8.2",
+    "@emotion/styled": "^11.8.1",
+    "@mui/material": "^5.5.1",
+    "@mui/styled-engine-sc": "^5.4.2",
+    "styled-components": "^5.3.3"
+  }
+}
